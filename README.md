@@ -1,6 +1,7 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-<p align="center">
+<p align="center">![1](https://user-images.githubusercontent.com/111107497/217178506-6ebaefbe-0255-43d5-a053-f682482a0c75.png)
+
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
@@ -9,19 +10,29 @@
 
 ## About Laravel
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:![2](https://user-images.githubusercontent.com/111107497/217183763-64754ba0-741b-4ff4-bdb8-0fea2dabac06.PNG)![3](https://user-images.githubusercontent.com/111107497/217183804-332d43ea-c7bf-4f36-ae12-024e4ac5b68d.PNG)![5](https://user-images.githubusercontent.com/111107497/217183879-f74ac153-d8d7-4b3d-acec-2b240b933e83.PNG)
+
+![4](https://us![6](https://user-images.githubusercontent.com/111107497/217183926-4f8813ee-327e-4002-9668-7ebd2a6fbb4e.PNG)
+er-images.githubusercontent.com/111107497/217183855-01ca40e5-a7c0-430f-b724-9de31906e313.PNG)
+
+
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
 - Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
+- Expressive, intuitive ![9](https://user-images.githubusercontent.com/111107497/217182250-a2574de0-2395-4276-9ca6-95062b20bfdb.PNG)![10](https://user-images.githubusercontent.com/111107497/217183707-0fa263bb-62e2-417f-a9cc-7fdcbab25b73.PNG)
+
+[database ORM](https://laravel.com/docs/eloquent).
 - Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
+- [Robust background job processing](https://laravel.com/docs/queues).![10](https://user-images.githubusercontent.com/111107497/217182233-684b4596-e5ab-4422-a5f6-edf40fc2ad28.PNG)
+
 - [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-## Learning Laravel
+## Learning Laravel![7](https://user-images.githubusercontent.com/111107497/217181535-75b4794b-cff1-4670-87b0-22b8b5156f0f.PNG)
+
+![1](https://user-images.githubusercontent.com/111107497/217181482-f7ac2dbe-dea8-4f66-a082-604b1bd18c45.png)
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
